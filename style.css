@@ -1,0 +1,51 @@
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+h1,p{
+  color:DarkSlateGray
+}
+
+p {
+  font-size:18px
+}
+
+
+#page1 
+
+{
+color: #000000;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  font-size: 175px;
+  padding-top: 150px;
+  padding-bottom: 50px;
+
+}
+
+h1,h2 {
+color: #000000;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  font-size: 175px;
+  padding-top: 150px;
+  padding-bottom: 50px;
+
+}
+
+#page2 h2,p,ul,li
+
+{
+color: #000000;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  font-size: 100px;
+  padding-top: 150px;
+  padding-bottom: 50px;
+
+}
